@@ -1,0 +1,7 @@
+*venv*
+*.pyc
+*train*
+*test*
+*metrics*
+*.csv
+*.npy
